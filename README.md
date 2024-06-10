@@ -4,3 +4,4 @@ Har två minnesplatser.
 Har möjligheten att kunna återgå till vissa punkter i historiken.
 Kan rensa historiken.
 
+script.js är huvudfilen.
